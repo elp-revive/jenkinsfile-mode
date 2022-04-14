@@ -1,3 +1,5 @@
+[![JCS-ELPA](https://raw.githubusercontent.com/jcs-emacs/jcs-elpa/master/badges/v/jenkinsfile-mode.svg)](https://jcs-emacs.github.io/jcs-elpa/#/jenkinsfile-mode)
+
 ## Install
 
 This requires the [groovy-mode](https://github.com/Groovy-Emacs-Modes/groovy-emacs-modes) package.
