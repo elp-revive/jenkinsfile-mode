@@ -4,6 +4,8 @@
 
 (package-file "buffer-move.el")
 
+(source "melpa")
+
 (depends-on "emacs" "24.1")
 (depends-on "groovy-mode" "2.0")
 
