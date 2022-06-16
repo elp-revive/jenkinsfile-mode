@@ -2,6 +2,9 @@
          "0.0.1"
          "Major mode for editing Jenkins declarative pipeline syntax")
 
+(website-url "https://github.com/elp-revive/jenkinsfile-mode")
+(keywords "")
+
 (package-file "buffer-move.el")
 
 (source "melpa")
