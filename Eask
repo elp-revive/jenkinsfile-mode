@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "jenkinsfile-mode"
          "0.0.1"
          "Major mode for editing Jenkins declarative pipeline syntax")
