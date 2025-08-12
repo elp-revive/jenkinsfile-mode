@@ -7,7 +7,7 @@
 (website-url "https://github.com/elp-revive/jenkinsfile-mode")
 (keywords "")
 
-(package-file "buffer-move.el")
+(package-file "jenkinsfile-mode.el")
 
 (script "test" "echo \"Error: no test specified\" && exit 1")
 
