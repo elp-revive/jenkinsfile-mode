@@ -11,7 +11,8 @@
 
 (script "test" "echo \"Error: no test specified\" && exit 1")
 
-(source "melpa")
+(source 'gnu)
+(source 'melpa)
 
 (depends-on "emacs" "24.1")
 (depends-on "groovy-mode" "2.0")
